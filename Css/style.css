@@ -1,0 +1,77 @@
+header	{ 	
+	width: 100%;
+ 	
+ 	margin-bottom: 30px; 
+ 	display: inline-block;
+ }
+
+.logo {
+margin-top: 30px;
+width: 100px;
+}
+nav 
+{
+	display: inline-block;
+	margin-top: 25px;
+}
+
+a {
+	color: black;
+}
+.active a {color: red;}
+li { display: inline-block;
+	margin-right: 30px;
+	width: auto;
+}
+
+.banner {
+margin-top: 30px;
+margin-left: 30px;
+
+}
+.icon {width: 50px;
+height: 30px;
+margin-top: 70px;
+
+border-right-style: solid;
+border-right-color: blue;}
+.second-icon {
+
+width: 50px;
+height: 30px;
+
+}
+body {
+
+margin-left: 30px;
+
+}
+article { margin-top: 30px;
+ }
+
+.article p {width: 700px;
+display: inline-block;
+vertical-align: top;}
+.text {
+display: inline-block;
+width: 800px;
+vertical-align: top;
+margin-left: 30px;
+}
+.mag { margin-top: 25px; }
+h3 {color: blue;}
+.date img  {width: 50px;
+	height: 50px;
+color: blue;
+}
+.month p { color: blue; 
+margin-left: 5px;}
+.main p { color: grey; }
+.main span {color: blue;}
+h3 {color: blue;}
+.main { display: inline-block; 
+vertical-align: top;
+margin-right: 30px;}
+.address { width: 1000px;
+height: 600px; }
+
